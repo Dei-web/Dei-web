@@ -64,4 +64,4 @@ Interesado en LLMs, agentes inteligentes, RAG y tecnologias cloud, con enfoque e
 
 ---
 
-> Portfolio construido con [Astro](https://astro.build) + Tailwind CSS + TypeScript
+> Portfolio construido con [Astro](https://portafolio-five-mu-99.vercel.app/) + Tailwind CSS + TypeScript
