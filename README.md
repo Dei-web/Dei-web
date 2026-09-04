@@ -60,8 +60,3 @@ Interesado en LLMs, agentes inteligentes, RAG y tecnologias cloud, con enfoque e
 
 - Email: deilerc27@gmail.com
 - Ubicacion: Barranquilla, Colombia
-- Telefono: 3242416989
-
----
-
-> Portfolio construido con [Astro](https://portafolio-five-mu-99.vercel.app/) + Tailwind CSS + TypeScript
