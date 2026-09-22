@@ -24,7 +24,7 @@ Interesado en LLMs, agentes inteligentes, RAG y tecnologias cloud, con enfoque e
 |---|---|
 | **IA / ML** | Python, LangChain, LangGraph, LLMs, RAG |
 | **Automatizacion** | n8n, Scripts Python |
-| **Backend** | Python, Node.js |
+| **Backend** | Python, Node.js, Go |
 | **Frontend** | Astro, React, TypeScript, Tailwind CSS |
 | **DevOps** | Docker, CI/CD basico |
 | **Herramientas** | Git, VS Code, APIs REST |
