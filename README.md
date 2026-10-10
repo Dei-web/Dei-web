@@ -55,8 +55,3 @@ Interesado en LLMs, agentes inteligentes, RAG y tecnologias cloud, con enfoque e
 - Participacion en **SanoSoft 2025**, representando al Atlantico en el area de Inteligencia Artificial
 
 ---
-
-### Contacto
-
-- Email: deilerc27@gmail.com
-- Ubicacion: Barranquilla, Colombia
