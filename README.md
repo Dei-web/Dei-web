@@ -27,7 +27,7 @@ Interesado en LLMs, agentes inteligentes, RAG y tecnologias cloud, con enfoque e
 | **Backend** | Python, Node.js, Go |
 | **Frontend** | Astro, React, TypeScript, Tailwind CSS |
 | **DevOps** | Docker, CI/CD basico |
-| **Herramientas** | Git, VS Code, APIs REST |
+| **Herramientas** | Git, Nvim, Postman |
 
 ---
 
